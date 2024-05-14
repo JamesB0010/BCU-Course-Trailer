@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Levels/ShotThroughPillars.umap",
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Sequences/ShotThroughPillars.uasset"
+			]
+		}
+	]
+}
