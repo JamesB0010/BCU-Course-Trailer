@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Levels/ShotThroughPillars.umap",
-				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Sequences/ShotThroughPillars.uasset"
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Sequences/ShotThroughPillars.uasset",
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Levels/FrontOfSteam.umap",
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Sequences/FrontFaceWalk.uasset",
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Anims/Walking__1_.uasset",
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Anims/Walking__1_fix.uasset",
+				"P:/HuggyML/BCU-Course-Trailer/GamesAcademyTrailerZipe/Content/Sequences/SideWalkingShot.uasset"
 			]
 		}
 	]
